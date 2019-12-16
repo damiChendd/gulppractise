@@ -1,0 +1,15 @@
+{
+  "name": "gluptest",
+  "version": "0.0.1",
+  "description": "glup test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chendan",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.2.0"
+  }
+}
